@@ -57,9 +57,8 @@ Gosto de código organizado: cada parte com uma responsabilidade, fontes de dado
 API em Python que coleta dados públicos de **emprego (CAGED)** e **empresas (IBGE/CEMPRE)** de Joinville, organiza tudo em PostgreSQL e entrega para o site Nexus. Cada fonte de dados roda isolada, então se uma quebrar, as outras continuam no ar.
 `Python` `FastAPI` `PostgreSQL` `Alembic` `Docker`
 
-### ⚡ EnergyOS · [Front-end](https://github.com/VitorRenner/Energyos-Front) · [Back-end](https://github.com/VitorRenner/EnergyosBackend)
-Sistema IoT de monitoramento de energia residencial. Um ESP32 com sensor PZEM-004T mede tensão, corrente e potência, e um dashboard mostra o consumo em tempo real, com custo estimado e alertas. Projeto em equipe, com 100% do Frontend feito por mim.
-`React` `Vite` `Chart.js` `Java` `MQTT` `IoT`
+   ### ⚡ EnergyOS · [Ver online](https://energyos-front.vercel.app) · [Front-end](https://github.com/VitorRenner/Energyos-Front) · [Back-end](https://github.com/VitorRenner/EnergyosBackend)
+      Dashboard em React + Vite para monitoramento de energia IoT em tempo real. Ver online: energyos-front.vercel.app
 
 
 ### 🌐 [Site Aluguel de TI](https://github.com/VitorRenner/Frontend-Site-Aluguel-TI)
