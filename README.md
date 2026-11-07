@@ -61,13 +61,6 @@ API em Python que coleta dados públicos de **emprego (CAGED)** e **empresas (IB
 Sistema IoT de monitoramento de energia residencial. Um ESP32 com sensor PZEM-004T mede tensão, corrente e potência, e um dashboard mostra o consumo em tempo real, com custo estimado e alertas. Projeto em equipe.
 `React` `Vite` `Chart.js` `Java` `MQTT` `IoT`
 
-### 🏀 [DraftStore E-commerce](https://github.com/VitorRenner/DraftStoreEcommerce)
-E-commerce de artigos de basquete, com back-end em Python.
-`Python` `E-commerce`
-
-### 🤖 [Servidor MCP com IA](https://github.com/VitorRenner/Server-MCP-IA)
-Implementação de um servidor MCP (Model Context Protocol) para a disciplina de Fundamentos de Inteligência Artificial.
-`Python` `IA` `MCP`
 
 ### 🌐 [Site Aluguel de TI](https://github.com/VitorRenner/Frontend-Site-Aluguel-TI)
 Front-end em Angular feito em equipe para um site de aluguel de TI.
