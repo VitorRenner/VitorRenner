@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou estudante do 3º ano de Engenharia de Software e estagiário de back-end Python. No dia a dia construo APIs que coletam, tratam e entregam dados públicos de Joinville.
+Sou estudante do 3º ano de Engenharia de Software na Universidade da Região de Joinville - campus Joinville Santa Catarina. Atuo como estagiário de back-end Python. No dia a dia construo APIs e automações com foco em Extração, Transformação e Carregamento de dados (ETL) e Pipeline que coletam, tratam e entregam dados públicos de Joinville.
 
 Gosto de código organizado: cada parte com uma responsabilidade, fontes de dados isoladas para que uma falha não derrube o sistema inteiro, e banco versionado com migrations.
 
@@ -58,12 +58,12 @@ API em Python que coleta dados públicos de **emprego (CAGED)** e **empresas (IB
 `Python` `FastAPI` `PostgreSQL` `Alembic` `Docker`
 
 ### ⚡ EnergyOS · [Front-end](https://github.com/VitorRenner/Energyos-Front) · [Back-end](https://github.com/VitorRenner/EnergyosBackend)
-Sistema IoT de monitoramento de energia residencial. Um ESP32 com sensor PZEM-004T mede tensão, corrente e potência, e um dashboard mostra o consumo em tempo real, com custo estimado e alertas. Projeto em equipe.
+Sistema IoT de monitoramento de energia residencial. Um ESP32 com sensor PZEM-004T mede tensão, corrente e potência, e um dashboard mostra o consumo em tempo real, com custo estimado e alertas. Projeto em equipe, com 100% do Frontend feito por mim.
 `React` `Vite` `Chart.js` `Java` `MQTT` `IoT`
 
 
 ### 🌐 [Site Aluguel de TI](https://github.com/VitorRenner/Frontend-Site-Aluguel-TI)
-Front-end em Angular feito em equipe para um site de aluguel de TI.
+Front-end em Angular feito em equipe para um site de aluguel de TI, feito também em equipe com Frontend feito em dupla.
 `Angular` `TypeScript` `HTML` `CSS`
 
 ---
